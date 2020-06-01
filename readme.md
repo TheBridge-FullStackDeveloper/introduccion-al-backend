@@ -34,7 +34,7 @@
 
 :shinto_shrine: [CSS Button]
 
-:european_castle: [API REST Quiz]
+:european_castle: [Quiz API REST]
 
 ###  Martes
 
@@ -50,7 +50,7 @@
 
 :shinto_shrine: [CSS Menu icons]
 
-:european_castle: [API REST Quiz]
+:european_castle: [Quiz API REST]
 
 ### Miércoles
 
@@ -60,6 +60,7 @@
 
 :shinto_shrine: [CSS Loader]
 
+:european_castle: [Quiz API REST]
 
 ### Jueves
 
@@ -73,38 +74,38 @@
 
 :shinto_shrine: [CSS Progress]
 
-:european_castle: [API REST Quiz]
+:european_castle: [Quiz API REST]
 
 ### Viernes
 
 :scroll: [Mongoose]
 
-:shinto_shrine: [CSS Toggles]
+:shinto_shrine: [CSS Toggle]
 
 :european_castle: Presentación Quiz & Caza-pokimon
 
 [Express]: https://expressjs.com "Express"
-[API REST Quiz]:
+[Quiz API REST]: https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz-api-rest "Quiz API REST"
 
 [Instalación]: https://expressjs.com/en/starter/installing.html "Instalación"
 [Hola mundo!]: https://expressjs.com/en/starter/hello-world.html "Hola mundo!"
 [Enrutamiento I]: https://expressjs.com/en/starter/basic-routing.html "Enrutamiento I"
 [Archivos estáticos y public]: https://expressjs.com/en/starter/static-files.html "Estáticos"
-[Template]:
-[CSS Button]:
+[Template]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-pp-template "Backend Template"
+[CSS Button]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-kata-CSS-Button "CSS Button"
 
 [Enrutamiento II]: https://expressjs.com/en/guide/routing.html "Enrutamiento II"
 [middlewares]: https://expressjs.com/en/guide/writting-middleware.html "Escribiendo middlewares"
 [Try...catch]: https://expressjs.com/en/guide/error-handling.html "Error handling"
-[CSS Menu icons]
+[CSS Menu icons]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-kata-CSS-Menu-Icon "CSS Menu Icons"
 
 [MongoDB]: https://www.mongodb.com "MongoDB"
-[CSS Loader]
+[CSS Loader]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-kata-CSS-Loader "CSS Loader"
 
 [Integración Express y Mongo]: https://expressjs.com/en/guide/database-integration.html "Integración Express y Mongo"
 [CRUD y REST]
 [API REST con CRUD]
-[CSS Progress]
+[CSS Progress]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-kata-CSS-Progress "CSS Progress"
 
 [Mongoose]: https://mongoosejs.com "MongooseJS"
-[CSS Toggles]
+[CSS Toggle]: https://github.com/TheBridge-FullStackDeveloper/introduccion-al-backend-kata-CSS-Toggle "CSS Toggle"
